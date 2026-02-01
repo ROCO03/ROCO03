@@ -80,11 +80,22 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ROCO03&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=ROCO03&theme=dracula&hide_border=false)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ROCO03&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ROCO03&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ROCO03&theme=dracula&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ROCO03&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ROCO03&theme=dracula" />
+</p>
 
 
 ---
