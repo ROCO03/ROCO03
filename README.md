@@ -17,11 +17,11 @@
   <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 </p>
 
-🚀 I am a 6th-semester **Applied Mathematics and Computer Science** student. I focus on bridging the gap between complex mathematics and scalable AI solutions.
+🚀 I am a 7th-semester **Applied Mathematics and Computer Science** student. I focus on bridging the gap between complex mathematics and scalable AI solutions.
 
 - 🏆 **Competitive Programming:** ICPC experience with strong algorithmic foundations.
 - 🔭 **Current Project:** Building a Titanic Survival Classifier using Scikit-Learn.
-- 🐧 **OS:** Proud user of **CachyOS (Arch Linux)** - I love the power of the terminal.
+- 🐧 **OS:** Proud user of **EndeavourOS** - I love the power of the terminal.
 - 🌱 **Learning:** Currently mastering Git/GitHub workflows and MLOps fundamentals.
 - 🎯 **Goal:** Build and deploy Machine Learning models with solid mathematical foundations.
 
